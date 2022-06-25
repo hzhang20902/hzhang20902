@@ -8,12 +8,10 @@
 - 🌱 I’m currently learning all the nuances in 
 - the rabbitholes of fullstack development, such as:
 - 
-- Threejs
+- Threejs, GLTF, Blender, React Three Fiber/Drei
 - ReactJs
-- RESTful APIs
-- JavaSpring
-- PSQL
-- dB migration
+- RESTful APIs, MVC(+Service), Java/Spring Boot
+- PSQL, dB migration, and integration w/Maven and Flyway
 - app deployment and web hosting
 - 
 - 💞️ I’m looking to collaborate on any projects that work to bring people together
