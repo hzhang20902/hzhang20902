@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Henry Zhang
-- 👀 I’m interested in learning and building 
-- technologies that can benefit the community 
-- at large, specifically independent music endeavors.
+- 🎸I'm an industry [guitarist](https://www.youtube.com/watch?v=R6bBF_57KaY) with a decade of professional experience 
+- 💾transitioning to the tech world!
+- 
+- 👀 I’m interested in learning and building technologies that can benefit the community at large, 
+- especially [independent music endeavors](https://www.youtube.com/watch?v=2xAy6lxBZLY).
 - 
 - 🌱 I’m currently learning all the nuances in 
 - the rabbitholes of fullstack development, such as:
@@ -14,12 +16,11 @@
 - dB migration
 - app deployment and web hosting
 - 
-- 💞️ I’m looking to collaborate on any projects 
-- that work to bring people together, and 
-- empower them to create.
+- 💞️ I’m looking to collaborate on any projects that work to bring people together
+- and empower them to create.
 - 
 - 📫 How to reach me: 
-- [Instagram](https://www.instagram.com/@figgsboson 'Music and code')
+- [Instagram](https://www.instagram.com/figgsboson/ 'Music and code! Yay!')
 
 <!---
 hzhang20902/hzhang20902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
