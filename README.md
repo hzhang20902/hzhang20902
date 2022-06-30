@@ -8,7 +8,7 @@
 - 🌱 I’m currently an ensemble director and guitar instructor at Philadelphia's historic and only institution for jazz, 
 - [the Clef Club](https://clefclubofjazz.org/). I am also learning all the nuances in the rabbitholes of fullstack development, such as:
 - 
-- Threejs, GLTF, Blender, React Three Fiber/Drei
+- [Threejs, GLTF, Blender, React Three Fiber/Drei](https://deploy-react-three-test.herokuapp.com/) (Takes a few to fully load, but click, drag, zoom!)
 - ReactJs
 - RESTful APIs, MVC(+Service), Java/Spring Boot
 - PSQL, dB migration, and integration w/Maven and Flyway
@@ -17,7 +17,8 @@
 - 💞️ I’m looking to collaborate on any projects that work to bring people together
 - and empower them to create.
 - 
-- 📫 How to reach me: 
+- 📫 How to reach me from most to least professional: 
+- [LinkedIn](https://www.linkedin.com/in/henry-zhang-256268218/)
 - [Instagram](https://www.instagram.com/figgsboson/ 'Music and code! Yay!')
 
 <!---
