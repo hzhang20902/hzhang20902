@@ -8,11 +8,12 @@
 - 🌱 I’m currently an ensemble director and guitar instructor at Philadelphia's historic and only institution for jazz, 
 - [the Clef Club](https://clefclubofjazz.org/). I am also learning all the nuances in the rabbitholes of fullstack development, such as:
 - 
-- [Threejs, GLTF, Blender, React Three Fiber/Drei](https://deploy-react-three-test.herokuapp.com/) (Takes a few to fully load, but click, drag, zoom!)
+- [Threejs, GLTF, Blender, React Three Fiber/Drei](https://deploy-react-three-test.herokuapp.com/) (Loading may take a few...)
 - ReactJs
 - RESTful APIs, MVC(+Service), Java/Spring Boot
 - PSQL, dB migration, and integration w/Maven and Flyway
-- app deployment and web hosting
+- Deployment via Docker and Kubernetes
+- Authentication use JWT and Spring Security
 - 
 - 💞️ I’m looking to collaborate on any projects that work to bring people together
 - and empower them to create.
