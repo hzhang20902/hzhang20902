@@ -11,9 +11,9 @@
 - [Threejs, GLTF, Blender, React Three Fiber/Drei](https://deploy-react-three-test.herokuapp.com/) (Loading may take a few...)
 - ReactJs
 - RESTful APIs, MVC(+Service), Java/Spring Boot
-- JSON Axios and YAML containerization/orchestration
+- JSON Axios and YAML
 - PSQL, dB migration, and integration w/Maven and Flyway
-- Deployment via Docker and Kubernetes 
+- Containerization/Orchestration/Deployment via Docker and Kubernetes 
 - Spring Security Auth. and JWTs
 - 
 - 💞️ I’m looking to collaborate on any projects that work to bring people together
