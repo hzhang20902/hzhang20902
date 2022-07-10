@@ -14,7 +14,7 @@
 - JSON Axios and YAML
 - PSQL, dB migration, and integration w/Maven and Flyway
 - Containerization/Orchestration/Deployment via Docker and Kubernetes 
-- Spring Security Auth. and JWTs
+- [Spring Security Auth. and JWTs](https://github.com/hzhang20902/jwtSetup)
 - 
 - 💞️ I’m looking to collaborate on any projects that work to bring people together
 - and empower them to create.
