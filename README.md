@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henry Zhang
-- 🎸I'm a Mississippi-born and raised, Philly-based industry [guitarist](https://www.youtube.com/watch?v=R6bBF_57KaY) with a decade of professional experience 
+- 🎸I'm a Mississippi born and raised, Philly-based industry [guitarist](https://www.youtube.com/watch?v=R6bBF_57KaY) with a decade of professional experience 
 - 💾transitioning to the tech world!
 - 
 - 👀 I’m interested in learning and building technologies that can benefit the community at large, 
