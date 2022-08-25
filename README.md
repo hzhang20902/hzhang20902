@@ -20,7 +20,7 @@
 - and empower them to create.
 - 
 - 📫 How to reach me from most to least professional: 
-- [LinkedIn](https://www.linkedin.com/in/henry-zhang-256268218/)
+- [LinkedIn](https://www.linkedin.com/in/henryzthatsme)
 - [Instagram](https://www.instagram.com/figgsboson/ 'Music and code! Yay!')
 
 <!---
