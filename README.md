@@ -9,7 +9,7 @@
 - [the Clef Club](https://clefclubofjazz.org/). I am also learning all the nuances in the rabbitholes of fullstack development, such as:
 - 
 - [Threejs, GLTF, Blender, React Three Fiber/Drei](https://deploy-react-three-test.herokuapp.com/) (Loading may take a few...)
-- ReactJs
+- [ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
 - RESTful APIs, MVC(+Service), Java/Spring Boot
 - JSON Axios and YAML
 - PSQL, dB migration, and integration w/Maven and Flyway
