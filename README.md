@@ -10,8 +10,7 @@
 - 
 - [Threejs, GLTF, Blender, React Three Fiber/Drei](https://deploy-react-three-test.herokuapp.com/) (Loading may take a few...)
 - [ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
-- RESTful APIs, MVC(+Service), Java/Spring Boot
-- JSON Axios and YAML
+- [MVC Architecture apps with React/Spring Boot/PSQL containerized using Docker-Compose](https://github.com/hzhang20902/portfolioFSdockerDeploy)
 - PSQL, dB migration, and integration w/Maven and Flyway
 - Containerization/Orchestration/Deployment via Docker and Kubernetes 
 - [Spring Security Auth. and JWTs](https://github.com/hzhang20902/jwtSetup)
