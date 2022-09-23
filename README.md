@@ -8,17 +8,17 @@
 - 🌱 I’m currently an ensemble director and guitar instructor at Philadelphia's historic and only institution for jazz, 
 - [the Clef Club](https://clefclubofjazz.org/). I am also learning all the nuances in the rabbitholes of fullstack development, such as:
 - 
-- [Threejs, GLTF, Blender, React Three Fiber/Drei](https://deploy-react-three-test.herokuapp.com/) (Loading may take a few...)
+- [Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
 - [ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
 - [MVC Architecture apps with React/Spring Boot/PSQL containerized using Docker-Compose](https://github.com/hzhang20902/portfolioFSdockerDeploy)
 - [Springboot dB migration, integration w/Maven and Flyway](https://github.com/hzhang20902/animalShelter-app-backend)
-- Containerization/Orchestration/Deployment via Docker and Kubernetes 
+- [Containerization/Orchestration/Deployment via Docker and Kubernetes](https://github.com/hzhang20902/portfolioFSdockerDeploy)
 - [Spring Security Auth. and JWTs](https://github.com/hzhang20902/jwtSetup)
 - 
 - 💞️ I’m looking to collaborate on any projects that work to bring people together
 - and empower them to create.
 - 
-- 📫 How to reach me from most to least professional: 
+- 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/henryzthatsme)
 - [Instagram](https://www.instagram.com/figgsboson/ 'Music and code! Yay!')
 
