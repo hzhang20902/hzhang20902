@@ -8,7 +8,7 @@
 - 🌱 I’m currently an ensemble director and guitar instructor at Philadelphia's historic and only institution for jazz, 
 - [the Clef Club](https://clefclubofjazz.org/). I am also learning all the nuances in the rabbitholes of fullstack development, such as:
 - 
-- [React Native mobile app with decentralized Web 3.0 domain; landing page only, click the Expo link to access the app](ipfs://henryzhang.888) 
+- [React Native mobile app with decentralized Web 3.0 domain; landing page only, click the Expo link to access the app](henryzhang.888) 
 - This is a decentralized domain, which requires the Unstoppable Domain extension in most browsers to view the link.
 - [Alternative HTTP link](https://cold-waterfall-0983.on.fleek.co)
 - [Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
