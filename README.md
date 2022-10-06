@@ -10,7 +10,7 @@
 -
 - 🖥 Some of my tech projects:
 - 
-- [📱 React Native mobile app with decentralized Web 3.0 domain NOTE: click the Expo link to access the app](https://bafybeidwk3pxjxav5laqxwnie3pnlk4flzidftxzsksebn7u2ipxhbvnia.ipfs.dweb.link/)
+- [📱 React Native mobile app with decentralized Web 3.0 domain NOTE: requires Expo access the app](https://bafybeidwk3pxjxav5laqxwnie3pnlk4flzidftxzsksebn7u2ipxhbvnia.ipfs.dweb.link/)
 - (Use the Unstoppable Domain browser extension to use the Web3.0 Url: henryzhang.888)
 - [Alternative HTTP link 👆🏽](https://cold-waterfall-0983.on.fleek.co)
 - [⚡️ Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
