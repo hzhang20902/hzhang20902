@@ -15,8 +15,6 @@
 - [Containerization/Orchestration/Deployment via Docker and Kubernetes](https://github.com/hzhang20902/portfolioFSdockerDeploy)
 - [Spring Security Auth. and JWTs](https://github.com/hzhang20902/jwtSetup)
 - 
-- 💞️ I’m looking to collaborate on any projects that work to bring people together
-- and empower them to create.
 - 
 - 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/henryzthatsme)
