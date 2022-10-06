@@ -6,17 +6,17 @@
 - especially [independent music endeavors](https://www.youtube.com/watch?v=2xAy6lxBZLY).
 - 
 - 🌱 I’m currently an ensemble director and guitar instructor at Philadelphia's historic and only institution for jazz, 
-- [the Clef Club](https://clefclubofjazz.org/). 
+- [🎷 the Clef Club](https://clefclubofjazz.org/). 
 -
 - 🖥 Some of my tech projects:
 - 
-- [📱React Native mobile app with decentralized Web 3.0 domain NOTE: click the Expo link to access the app](https://bafybeidwk3pxjxav5laqxwnie3pnlk4flzidftxzsksebn7u2ipxhbvnia.ipfs.dweb.link/)
+- [📱 React Native mobile app with decentralized Web 3.0 domain NOTE: click the Expo link to access the app](https://bafybeidwk3pxjxav5laqxwnie3pnlk4flzidftxzsksebn7u2ipxhbvnia.ipfs.dweb.link/)
 - (Use the Unstoppable Domain browser extension to use the Web3.0 Url: henryzhang.888)
 - [Alternative HTTP link 👆🏽](https://cold-waterfall-0983.on.fleek.co)
-- [⚡️Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
-- [⚛️ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
-- [☕️MVC Architecture apps with React/Spring Boot/PSQL containerized using Docker-Compose](https://github.com/hzhang20902/portfolioFSdockerDeploy)
-- [📚Springboot dB migration, integration w/Maven and Flyway](https://github.com/hzhang20902/animalShelter-app-backend)
+- [⚡️ Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
+- [⚛️ ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
+- [☕️ MVC Architecture apps with React/Spring Boot/PSQL containerized using Docker-Compose](https://github.com/hzhang20902/portfolioFSdockerDeploy)
+- [📚 Springboot dB migration, integration w/Maven and Flyway](https://github.com/hzhang20902/animalShelter-app-backend)
 - [🐳 Containerization/Orchestration/Deployment via Docker and Kubernetes](https://github.com/hzhang20902/portfolioFSdockerDeploy)
 - [🔐 Spring Security Auth. and JWTs](https://github.com/hzhang20902/jwtSetup)
 - 
