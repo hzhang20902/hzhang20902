@@ -10,9 +10,9 @@
 -
 - 🖥 Some of my tech projects:
 - 
-- [📱 NFT Marketplace demo UI/UX w/React Native, TailwindCSS, decentralized Web 3.0 domain *NOTE: requires Expo-Go (iOS and Android) to access the app*](https://bafybeidwk3pxjxav5laqxwnie3pnlk4flzidftxzsksebn7u2ipxhbvnia.ipfs.dweb.link/)
-- (Use the Unstoppable Domain browser extension to use the Web3.0 Url: "henryzhang.888")
-- [Alternative HTTP link to 👆🏽](https://cold-waterfall-0983.on.fleek.co)
+- [📱 NFT Marketplace demo UI/UX w/React Native, decentralized Web 3.0 domain *NOTE: requires Expo-Go (iOS and Android) to access the app*](https://bafybeidwk3pxjxav5laqxwnie3pnlk4flzidftxzsksebn7u2ipxhbvnia.ipfs.dweb.link/)
+- (Add the Unstoppable Domain browser extension to use the Web3.0 Url: "henryzhang.888")
+- [Alternative HTTP link to app promo page built using Reactjs, TailwindCSS 👆🏽](https://cold-waterfall-0983.on.fleek.co)
 - [⚡️ Minecraft Lite clone w/Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
 - [⚛️ Webstore w/full function Stripe payment built w/ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
 - [☕️ Landing page/website using MVC Architecture w/Reactjs, Spring Boot, PostgreSQL and JWT Authentication](https://jwtportfoliofrontend.vercel.app/)
