@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry Zhang
+- 👋🏽 Hi, I’m Henry Zhang
 - 🎸I'm a Mississippi born and raised, Philly-based industry [guitarist](https://www.youtube.com/watch?v=R6bBF_57KaY) with a decade of professional experience 
 - 💾transitioning to the tech world!
 - 
@@ -10,7 +10,7 @@
 - 
 - [React Native mobile app with decentralized Web 3.0 domain NOTE: click the Expo link to access the app](https://bafybeidwk3pxjxav5laqxwnie3pnlk4flzidftxzsksebn7u2ipxhbvnia.ipfs.dweb.link/)
 - This is a decentralized domain, which requires the Unstoppable Domain extension in most browsers to use the IPFS Url: henryzhang.888
-- [Alternative HTTP link](https://cold-waterfall-0983.on.fleek.co)
+- [Alternative HTTP link 👆🏽](https://cold-waterfall-0983.on.fleek.co)
 - [Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
 - [ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
 - [MVC Architecture apps with React/Spring Boot/PSQL containerized using Docker-Compose](https://github.com/hzhang20902/portfolioFSdockerDeploy)
