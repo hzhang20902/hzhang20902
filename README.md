@@ -16,7 +16,7 @@
 - [⚡️ Minecraft Lite clone w/Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
 - [⚛️ Webstore w/full function Stripe payment built w/ReactJs, NEXTJs and Sanity apps](https://ecommerce-react-hzhang20902.vercel.app/)
 - [☕️ Landing page/website using MVC Architecture w/Reactjs, Spring Boot, PostgreSQL and JWT Authentication](https://jwtportfoliofrontend.vercel.app/)
-- [📚 Animal Shelter Volunteer FS app w/Springboot, Maven, PSQL dB migration via Flyway](https://github.com/hzhang20902/animalShelter-app-backend)
+- [📚 Animal Shelter Volunteer FS app w/Springboot, Maven, PSQL dB migration via Flyway (User/Pass:"test"/"test")](https://liftoffanimalshelterapp.vercel.app/)
 - [🐳 Containerization/Orchestration/Deployment of the Landing page via Docker and Kubernetes](https://github.com/hzhang20902/portfolioFSdockerDeploy)
 - [🔐 Source code for backend of Spring Security Auth. and JWTs](https://github.com/hzhang20902/jwtSetup)
 - 
