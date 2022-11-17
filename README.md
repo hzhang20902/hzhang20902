@@ -23,8 +23,9 @@
 - 
 - 
 - 📫 How to reach me: 
+- [Contact Page](https://jwtportfoliofrontend.vercel.app/contact)
 - [LinkedIn](https://www.linkedin.com/in/henryzthatsme)
-- [Instagram](https://www.instagram.com/figgsboson/ 'Music and code! Yay!')
+
 
 <!---
 hzhang20902/hzhang20902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
