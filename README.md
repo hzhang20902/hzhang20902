@@ -14,6 +14,7 @@
 - 🖥 Some of my tech projects:
 - 
 - [Serverful function email contact form API w/Express.js](https://github.com/hzhang20902/contactformapi)
+- [Real estate marketplace w/Next.js, React.js, Chakra-UI, RapidAPI](https://nextrealtymarket.vercel.app/)
 - [📱 NFT Marketplace UI/UX demo and Product Page w/React Native, ReactJs *NOTE: requires Expo-Go (iOS and Android) to access the app*](https://cold-waterfall-0983.on.fleek.co/)
 - [⚡️ Minecraft Lite clone w/Threejs, GLTF, Blender, React Three Fiber/Drei/Cannon](https://minecraft3clone-g8o6.vercel.app/)
 - [⚛️ Webstore w/Stripe payment built w/ReactJs, NEXTJs and Sanity](https://ecommerce-react-hzhang20902.vercel.app/)
