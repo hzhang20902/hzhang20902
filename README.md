@@ -4,9 +4,6 @@
 - 
 - 👀 I’m interested in learning and building technologies that can benefit the community at large, 
 - especially [independent music endeavors](https://www.youtube.com/watch?v=2xAy6lxBZLY).
-- 
-- 🌱 I’m currently an ensemble director and guitar instructor at Philadelphia's historic and only institution for jazz, 
-- [🎷 the Clef Club](https://clefclubofjazz.org/). 
 -
 - [☕️ Check out my portfolio website built w/React.js, Express.js, Three.js, Spring Boot, PostgreSQL and JWT Auth](https://jwtportfoliofrontend.vercel.app/)
 - 
