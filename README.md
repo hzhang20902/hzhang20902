@@ -4,7 +4,7 @@ I used to [bend strings](https://youtu.be/COMNH_PpeSg?si=rcf0QhiycSYWQIC4&t=75),
 
 Enjoy a few minutes of BlockCraft, an extremely simplified browser-Minecraft, or Terraria Lite in 3D, for the [glass half full type](https://minecraft3clone-g8o6.vercel.app/).
 
-📫 [POST Requests](https://figgsboson.dev/contact)
+📫 [POST Requests](https://elephantsgerald.org/contact)
 
 
 <!---
