@@ -1,4 +1,4 @@
-Mississippi born and raised, Philly forged and molded; now with big boy pants in D.C.
+Mississippi born and raised, Philly forged and made; now with big boy pants in D.C.
 
 I used to [bend strings](https://youtu.be/COMNH_PpeSg?si=rcf0QhiycSYWQIC4&t=75), now I write them.
 
